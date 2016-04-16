@@ -23,3 +23,24 @@ my name is Samual L Jackson, you havent seen any of my movies.</p>
 
 <!-- content goes in the body -->
 </body>
+<!DOCTYPE html>
+		<html>
+		<head> 
+			<title><b><strong><em>The Answer</em></strong></b></title>
+		</head>
+		<body>
+		<h1>Allen Iverson</h1>
+		<h3>Allen Iverson was the question to many peoples thoughts..</h3>
+		<img src="http://img.bleacherreport.net/img/images/photos/002/459/241/1753355_crop_north.jpg?w=630&h=420&q=75">
+		<h2> Some of his accomplishments in the N.B.A: </h2>
+		
+		<ul>
+			<li><strong>Rookie Of The Year (1997) </strong></li>
+			<li><strong>NBA Rookie of the Year (1997)</strong></li>
+			<li><strong>NBA Most Valuable Player (2001)</strong></li>
+			<li><strong>NBA scoring champion (1999,2001-2002,2005)</strong></li></ul>
+			
+		Make sure to follow his <a href="https://www.instagram.com/?hl=en"><u>Instagram</u></a>
+
+		</body>
+		</html>		
